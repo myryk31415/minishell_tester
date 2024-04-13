@@ -53,5 +53,5 @@ exit hello
 exit hello 42
 exit 42 world
 exit
-unset USER && echo $USER
+unset TERM && echo $TERM
 export test=test && echo $test
