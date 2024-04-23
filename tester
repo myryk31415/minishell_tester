@@ -11,7 +11,9 @@ else
 	test_lists=(
 		"builtins"
 		"pipes"
+		"variables"
 		"redirects"
+		"syntax"
 		"extras"
 	)
 fi
