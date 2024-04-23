@@ -5,4 +5,4 @@ export GHOST=123 | env | grep GHOST
 echo a | cat -e
 echo a | cat | cat | cat -e
 echo a | cat >mini_outfiles/outfile| cat -e
-
+echo hi | grep jfsdkl
